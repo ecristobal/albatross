@@ -1,4 +1,4 @@
 package es.ecristobal.albatross.migration;
 
-public interface RepeatableMigrationStep {
+public interface RepeatableMigrationStep extends AlbatrossStep {
 }
